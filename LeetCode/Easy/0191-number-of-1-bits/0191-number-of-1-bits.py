@@ -7,4 +7,5 @@ class Solution:
             if n_list[i] == "1":
                 cnt += 1
             
+            
         return cnt
